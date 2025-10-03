@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aedes": "^0.51.3",
+    "mqtt": "^5.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
